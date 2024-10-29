@@ -72,3 +72,63 @@ button {
   border-radius: 15px;
   padding: 20px;
 }
+
+.current-section {
+  max-width: 1600px;
+  margin: auto;
+}
+
+.current-container {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.current-text {
+  text-align: center;
+}
+.current-text h1 {
+  font-size: 40px;
+}
+
+.html-container {
+  background-color: antiquewhite;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.css-container {
+  background-color: aqua;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.js-container {
+  background-color: bisque;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.target-container {
+  max-width: 1600px;
+  margin: auto;
+}
+
+.skills-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid gray;
+  margin: 20px;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.skills-container div {
+  margin-left: 20px;
+}
