@@ -1,0 +1,41 @@
+.nav-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+button {
+  padding: 15px 30px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.nav-text {
+  font-size: 35px;
+}
+
+.hero-section {
+  background-image: url(./assets/Hero-bg.png);
+  height: 700px;
+  background-size: cover;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-heading {
+  font-size: 55px;
+  letter-spacing: 3px;
+  font-weight: 900;
+}
+
+.hero-button {
+  background-color: black;
+  color: white;
+  margin-top: 10px;
+}
+
+.hero-text {
+  font-size: 20px;
+}
